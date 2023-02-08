@@ -28,7 +28,7 @@
     "prettier": "prettier --write \"{src,demo}/**/*.{js,ts}\""
   },
   "dependencies": {
-    "@pokusew/pcsclite": "^0.6.0",
+    "@pokusew/pcsclite": "1.0.1",
     "hexify": "^1.0.4",
     "pino": "^6.11.1"
   },
